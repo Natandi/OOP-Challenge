@@ -62,3 +62,10 @@ Deadline: [Set your date]
 Submission format: clone / fork this repo
 
 Bonus points for creativity (custom actions, emojis, pet types, etc.)
+
+## Screenshot of output
+
+![WhatsApp Image 2025-04-16 at 22 20 20_fb35ed9c](https://github.com/user-attachments/assets/24131d56-b969-4212-b7f3-994c67aa4a36)
+
+
+
